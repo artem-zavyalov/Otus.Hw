@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using Otus.Hw._4.Reflection;
 using Otus.Hw._4.Reflection.Models;
 using Otus.Hw._4.Reflection.Service;
 
