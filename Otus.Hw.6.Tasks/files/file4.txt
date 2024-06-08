@@ -1,0 +1,8 @@
+zerospace
+one space
+ two spaces
+ three spaces 
+one space
+ two spaces
+ three spaces 
+ three spaces 
