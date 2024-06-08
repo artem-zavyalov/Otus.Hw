@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus.Hw.4.Reflection", "Otu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus.Hw.5.DelegatesEvents", "Otus.Hw.5.DelegatesEvents\Otus.Hw.5.DelegatesEvents.csproj", "{388D0E2A-F527-427B-80B1-A8BFD2C323F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus.Hw.7.Multithread", "Otus.Hw.7.Multithread\Otus.Hw.7.Multithread.csproj", "{D894041A-2A59-4089-A7C3-46192BDD155B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,5 +31,9 @@ Global
 		{388D0E2A-F527-427B-80B1-A8BFD2C323F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{388D0E2A-F527-427B-80B1-A8BFD2C323F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{388D0E2A-F527-427B-80B1-A8BFD2C323F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D894041A-2A59-4089-A7C3-46192BDD155B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D894041A-2A59-4089-A7C3-46192BDD155B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D894041A-2A59-4089-A7C3-46192BDD155B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D894041A-2A59-4089-A7C3-46192BDD155B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
